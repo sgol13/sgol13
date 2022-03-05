@@ -1,6 +1,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005805667082)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-go%C5%82%C4%99biowski-030115204/)
-[![Gmail](https://img.shields.io/badge/szymon13gol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymon13gol@gmail.com?subject=&cc=&bcc=&body=)
+[![Gmail](https://img.shields.io/badge/szymon13gol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=szymon13gol@gmail.com&tf=cm)
 
 
 ### Hello there! :beer:

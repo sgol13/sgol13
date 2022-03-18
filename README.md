@@ -29,7 +29,7 @@ My name is Szymon Gołębiowski and I'm a second-year Computer Science student a
 
 * [Snake](https://github.com/sgol13/snake-game) - Snake game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
-* [Board game AI](https://github.com/sgol13/board-game-ai/blob/main/README.md) - AI algorithm for a simple board game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+* [Board game AI](https://github.com/sgol13/board-game-ai) - AI algorithm for a simple board game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
 * [Dl-list sorting algorithms](https://github.com/sgol13/dl-list-sorting) - implementation of dl-list + 20 list sorting algorithms. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 

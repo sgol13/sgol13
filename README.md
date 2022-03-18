@@ -42,5 +42,5 @@ My name is Szymon Gołębiowski and I'm a second-year Computer Science student a
 
 #### Github statistics :bar_chart:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgol13&custom_title=Statistics&langs_count=10&card_width=400&hide_title=true)](https://github.com/sgol13?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgol13&custom_title=Statistics&langs_count=6&card_width=400&hide_title=true)](https://github.com/sgol13?tab=repositories)
 

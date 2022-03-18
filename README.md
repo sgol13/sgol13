@@ -31,6 +31,8 @@ My name is Szymon Gołębiowski and I'm a second-year Computer Science student a
 
 * [Board game AI](https://github.com/sgol13/board-game-ai/blob/main/README.md) - AI algorithm for a simple board game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
+* [Dl-list sorting algorithms](https://github.com/sgol13/dl-list-sorting) - implementation of dl-list + 20 list sorting algorithms. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+
 #### University courses repositories for my fellow students in need :mortar_board:
 * [Graph Algorithms](https://github.com/sgol13/agh-graph-algorithms) - 2021/22 &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-3572A5)
 

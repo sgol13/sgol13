@@ -4,10 +4,10 @@
 
 
 ### Hello there! :beer:
-My name is Szymon Gołębiowski and I'm a second-year Computer Science student at AGH University of Science and Technology. I'm truly fascinated by algorithms and problem solving based on mathematics. I love working in Unix-like environment.
+My name is Szymon Gołębiowski and I'm a second-year Computer Science student at AGH University of Science and Technology. I'm truly fascinated by algorithms and problem solving based on mathematics. I code mainly in C, C++ and Python but I've also tried a bit of Java, TSQL, Haskell and Assembler.
 
 #### Have a look at my personal projects... :green_book:
-* [**Boulder Dash**](https://github.com/sgol13/boulder-dash.git) - a clone of the well known game in C++ using SFML library. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+* [**Boulder Dash**](https://github.com/sgol13/boulder-dash.git) - a clone of the well known game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
 * [**Evolution Simulator**](https://github.com/sgol13/evolution-simulator) - simulation of animals genetic evolution. &nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Java-b07219)
 
@@ -27,7 +27,7 @@ My name is Szymon Gołębiowski and I'm a second-year Computer Science student a
 
 * [Draughts](https://github.com/sgol13/c-draughts) - draughts game in terminal. &nbsp;&nbsp; ![C](https://img.shields.io/badge/-C-555555)
 
-* [Snake](https://github.com/sgol13/snake-game) - Snake game in C++ using SFML library. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+* [Snake](https://github.com/sgol13/snake-game) - Snake game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
 * [Board game AI](https://github.com/sgol13/board-game-ai/blob/main/README.md) - AI algorithm for a simple board game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
 
@@ -39,7 +39,6 @@ My name is Szymon Gołębiowski and I'm a second-year Computer Science student a
 * [Object Oriented Programming](https://github.com/sgol13/agh-object-oriented-programming) - 2021/22 &nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Java-b07219)
 
 #### Github statistics :bar_chart:
-I code mainly in C, C++ and Python but I've also tried a bit of Java, TSQL, Haskell and Assembler.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgol13&custom_title=Statistics&langs_count=10&card_width=400&hide_title=true)](https://github.com/sgol13?tab=repositories)
 

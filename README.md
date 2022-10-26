@@ -4,7 +4,7 @@
 
 
 ### Hello there! :beer:
-My name is Szymon Gołębiowski and I'm a second-year Computer Science student at AGH University of Science and Technology. I'm truly fascinated by algorithms and problem solving based on mathematics. I code mainly in C, C++ and Python but I've also tried a bit of Java, TSQL, Haskell and Assembler.
+My name is Szymon Gołębiowski and I'm a third-year Computer Science student at AGH University of Science and Technology. I'm truly fascinated by algorithms and problem solving based on mathematics. I code mainly in C, C++ and Python but I've also tried a bit of Java, TSQL, Haskell and Assembler.
 
 #### Have a look at my personal projects... :green_book:
 * [**Boulder Dash**](https://github.com/sgol13/boulder-dash.git) - a clone of the well known game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)

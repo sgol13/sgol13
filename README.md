@@ -1,40 +1,28 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005805667082)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-go%C5%82%C4%99biowski-030115204/)
-[![Gmail](https://img.shields.io/badge/szymon13gol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=szymon13gol@gmail.com&tf=cm)
+
+### Hello there!
+I'm a Software Engineer at Ocado Technology and a recent Computer Science graduate. I'm truly fascinated by mathematics, algorithms and machine learning. I code mainly in C, C++, Java, Python and Elixir.
 
 
-### Hello there! :beer:
-My name is Szymon Gołębiowski and I'm a third-year Computer Science student at AGH University of Science and Technology. I'm truly fascinated by algorithms and problem solving based on mathematics. I code mainly in C, C++, Java and Python but I've also tried a bit of React, Elixir, TSQL, Haskell and Assembler.
+# [Elixir Chatbot](https://github.com/sgol13/elixir-chatbot)
 
-#### Have a look at my personal projects... :green_book:
-* [**Boulder Dash**](https://github.com/sgol13/boulder-dash.git) - a clone of the well known game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+My thesis project - a chatbot answering questions about the Elixir programming language. 
+- The project’s client was Jose Valim, creator of the Elixir.
+- According to the benchmark, it significantly outperforms ChatGPT within its narrow domain.
+- We built a flexible framework to enable testing the variety of generative and embedding models.
 
-* [**Evolution Simulator**](https://github.com/sgol13/evolution-simulator) - simulation of animals genetic evolution. &nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Java-b07219)
+<a href="elixir_chatbot.png">
+         <img alt="Boulder Dash video" src="elixir_chatbot.png" width=800">
+</a>
 
-* [**Restaurant database**](https://github.com/sgol13/restaurant-database) - the database system for a restaurant. &nbsp;&nbsp; ![TSQL](https://img.shields.io/badge/-TSQL-e38c00)
+</br>
+</br>
 
-* [Genetic TSP](https://github.com/sgol13/genetic-tsp) - a multi-dimensional Travelling Salesman Problem in Python using genetic algorithm. &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-3572A5)
+# [Boulder Dash](https://github.com/sgol13/boulder-dash)
 
-* [MPI blurring](https://github.com/sgol13/mpi-blurring) - multiprocess image blurring based on MPI. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
+A clone of Boulder Dash in C++, which I created for fun and learning. It contains visible improvements compared to the original version: fluent movement of objects, two objects can partly cover the same field.
 
-* [Bayes Classifier](https://github.com/sgol13/bayes-classifier) - naive Bayes classifier used for wine types prediction. &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-3572A5)
-
-* [Elementary Cellular Automaton](https://github.com/sgol13/elementary-cellular-automaton) - simulation of an elementary cellular automaton using Allegro library. &nbsp;&nbsp; ![C](https://img.shields.io/badge/-C-555555)
-
-* [K-nearest neighbors](https://github.com/sgol13/k-nearest-neighbors) - k-nearest neighbors algorithm used for cancer detection. &nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-3572A5)
-
-* [Arkanoid Simulation](https://github.com/sgol13/arkanoid-simulation) - multithreaded simulation inspired by Arkanoid game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
-
-* [Draughts](https://github.com/sgol13/c-draughts) - draughts game in terminal. &nbsp;&nbsp; ![C](https://img.shields.io/badge/-C-555555)
-
-* [Snake](https://github.com/sgol13/snake-game) - Snake game in C++ using SFML. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
-
-* [Board game AI](https://github.com/sgol13/board-game-ai) - AI algorithm for a simple board game. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
-
-* [Dl-list sorting algorithms](https://github.com/sgol13/dl-list-sorting) - implementation of dl-list + 20 list sorting algorithms. &nbsp;&nbsp; ![C++](https://img.shields.io/badge/-C++-f34b7d)
-
-
-#### Github statistics :bar_chart:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgol13&custom_title=Statistics&langs_count=6&card_width=400&hide_title=true)](https://github.com/sgol13?tab=repositories)
-
+<a href="https://www.youtube.com/watch?v=LvDFsZE7p5g">
+         <img alt="Boulder Dash video" src="boulder_dash.png" width=800">
+</a>

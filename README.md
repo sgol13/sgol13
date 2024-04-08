@@ -21,7 +21,7 @@ My thesis project - a chatbot answering questions about the Elixir programming l
 
 # [Boulder Dash](https://github.com/sgol13/boulder-dash)
 
-A clone of Boulder Dash in C++, which I created for fun and learning. It contains visible improvements compared to the original version: fluent movement of objects, two objects can partly cover the same field.
+A clone of Boulder Dash in C++, which I created for fun and learning. It contains visible improvements compared to the original version: fluent movement of objects and the possibility of two objects to partly cover the same field.
 
 <a href="https://www.youtube.com/watch?v=LvDFsZE7p5g">
          <img alt="Boulder Dash video" src="boulder_dash.png" width=800">

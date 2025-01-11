@@ -4,6 +4,13 @@
 ### Hello there!
 I'm a Machine Learning Engineer at Nomagic and a recent Computer Science graduate. I'm truly fascinated by mathematics, algorithms and machine learning. I code mainly in Python, C, C++, Java and Elixir.
 
+# [Boulder Dash](https://github.com/sgol13/boulder-dash)
+
+A clone of Boulder Dash in C++, which I created for fun and learning. It contains visible improvements compared to the original version: fluent movement of objects and the possibility of two objects to partly cover the same field.
+
+<a href="https://www.youtube.com/watch?v=LvDFsZE7p5g">
+         <img alt="Boulder Dash video" src="boulder_dash.png" width=800">
+</a>
 
 # [Elixir Chatbot](https://github.com/sgol13/elixir-chatbot)
 
@@ -18,11 +25,3 @@ My thesis project - a chatbot answering questions about the Elixir programming l
 
 </br>
 </br>
-
-# [Boulder Dash](https://github.com/sgol13/boulder-dash)
-
-A clone of Boulder Dash in C++, which I created for fun and learning. It contains visible improvements compared to the original version: fluent movement of objects and the possibility of two objects to partly cover the same field.
-
-<a href="https://www.youtube.com/watch?v=LvDFsZE7p5g">
-         <img alt="Boulder Dash video" src="boulder_dash.png" width=800">
-</a>

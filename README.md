@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-go%C5%82%C4%99biowski-030115204/)
 
 ### Hello there!
-I'm a Machine Learning Engineer at Nomagic and a recent Computer Science graduate. I'm truly fascinated by mathematics, algorithms and machine learning. I code mainly in Python, C, C++, Java and Elixir.
+I'm a MSc Data Science student at Delft University of Technology. I'm truly fascinated by mathematics, algorithms and machine learning. I code mainly in Python, C, C++, Java and Elixir.
 
 # [Boulder Dash](https://github.com/sgol13/boulder-dash)
 
